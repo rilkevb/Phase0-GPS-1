@@ -12,3 +12,4 @@ git checkout
 git checkout -b <new branch name>
 open
 git checkout --help
+git remote -v
